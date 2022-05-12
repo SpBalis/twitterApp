@@ -1,0 +1,3 @@
+com\mpalis\twitterapp\TwitterappApplication.class
+com\mpalis\twitterapp\controller\TwitterController.class
+com\mpalis\twitterapp\service\TwitterService.class
